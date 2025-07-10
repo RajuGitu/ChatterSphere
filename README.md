@@ -8,7 +8,7 @@ ChatterSphere is a full-stack, real-time chat application inspired by WhatsApp. 
 
 Watch ChatSphere in action:
 
-[[Watch Demo](https://www.youtube.com/watch?v=WbAIjNBla9o)
+[Watch Demo](https://www.youtube.com/watch?v=WbAIjNBla9o)
 
 ---
 
@@ -57,9 +57,11 @@ npm install
 
 ### Create .env file in the Backend folder:
 
+```bash
 PORT=5000
 MONGO_URI=your_mongodb_connection_string
 JWT_SECRET=your_jwt_secret
+```
 
 ### Start the backend server:
 
@@ -73,7 +75,7 @@ npm start
 npm run dev
 ```
 
-##🧠 Future Roadmap – What's Next?
+## 🧠 Future Roadmap – What's Next?
 
 Here are planned upcoming features:
 
