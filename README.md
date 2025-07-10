@@ -8,7 +8,7 @@ ChatterSphere is a full-stack, real-time chat application inspired by WhatsApp. 
 
 Watch ChatSphere in action:
 
-[![Watch Demo](https://www.youtube.com/watch?v=WbAIjNBla9o)
+[[Watch Demo](https://www.youtube.com/watch?v=WbAIjNBla9o)
 
 ---
 
@@ -43,18 +43,7 @@ Watch ChatSphere in action:
 - JWT
 - bcrypt.js
 - Socket.IO Server
-
----
-
-## 📸 UI Preview
-
-> Screenshot of ChatSphere in action:
-
-![ChatSphere Preview](./screenshots/chat-ui.png)
-
----
-
-
+  
 ---
 
 ## ⚙️ Getting Started
